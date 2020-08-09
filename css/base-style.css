@@ -11,7 +11,7 @@ body {
 	font-size: 24px;
 	font-weight: 300;
 	overflow-x: hidden;
-    margin: 0 0 0px; /* bottom has to be the same as footer height */
+    margin: 0 0 20px; /* bottom has to be the same as footer height */
 	
 }
 
